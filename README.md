@@ -82,7 +82,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
+<img alt="Erich Comparin" src="https://avatars1.githubusercontent.com/u/49964553?s=460&u=cbfeb4a52528866ecd92b23fb86afa9bf1cc4ee2&v=4" style="border-radius: 50%" width="120px"/>
+
 Erich Comparin
+
+[![Linkedin Badge](https://img.shields.io/badge/-Erich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/erich-comparin-6923119b/) 
 
 ---
 
