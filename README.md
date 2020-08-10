@@ -28,7 +28,7 @@
  
 </p>-->
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/images/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/images/banner.png" />
 </h1>
 
 <h4 align="center"> 
