@@ -17,7 +17,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#markdown-header-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> •
@@ -38,10 +38,10 @@ A NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ## 📂 Sobre o repositório
 
 Este repositório possui a aplicação Web do projeto.
-
+<br />
 Acessar o repositório da API: [![Github Badge](https://img.shields.io/badge/-API_Proffy-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin/Proffy-NLW2---nodeJS)](https://github.com/ErichComparin/Proffy-NLW2---nodeJS)
 
-Acessar o repositório da aplicação mobile: [![Github Badge](https://img.shields.io/badge/-API_Proffy-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin/Proffy-NLW2---React-Native)](https://github.com/ErichComparin/Proffy-NLW2---React-Native)
+Acessar o repositório da aplicação mobile: [![Github Badge](https://img.shields.io/badge/-Mobile_Proffy-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin/Proffy-NLW2---React-Native)](https://github.com/ErichComparin/Proffy-NLW2---React-Native)
 
 ---
 
