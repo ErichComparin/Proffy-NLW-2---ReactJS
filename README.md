@@ -10,11 +10,8 @@
 
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/banner.jpg?raw=true" />
+    👨‍🏫 Proffy 👩‍🏫
 </h1>
-
-<h2 align="center"> 
-	👨‍🏫 Proffy 👩‍🏫
-</h2>
 
 <!-- 🚧🚧 Em construção 🚧🚧 -->
 
@@ -81,7 +78,7 @@ $ yarn install
 # Execute a aplicação
 $ yarn start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação web será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
 
