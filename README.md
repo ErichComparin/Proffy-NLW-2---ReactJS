@@ -67,7 +67,23 @@ A NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## 🚀 Como executar o projeto
 
-🚧🚧 Em construção 🚧🚧
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/ErichComparin/Proffy-NLW2---ReactJS.git
+
+# Acesse a pasta do projeto
+$ cd Proffy-NLW2---ReactJS
+
+# Instale as dependências
+$ yarn install
+
+# Execute a aplicação
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
 
 ---
 
