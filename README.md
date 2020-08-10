@@ -52,7 +52,14 @@ A NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## 🎨 Layout
 
-🚧🚧 Em construção 🚧🚧
+- Landing Page
+<img alt="Landing Page" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/web1.jpg?raw=true">
+
+- Cadastro do professor, aula e horários
+<img alt="Landing Page" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/web2.jpg?raw=true">
+
+- Consulta de aulas
+<img alt="Landing Page" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/web3.jpg?raw=true">
 
 ---
 
