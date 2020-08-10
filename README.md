@@ -72,13 +72,13 @@ Acessar o repositório da aplicação mobile: [![Github Badge](https://img.shiel
 ## 🎨 Layout
 
 - Landing Page
-<img alt="Landing Page" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/web1.jpg?raw=true">
+<img alt="Landing Page" src="./readme/web1.jpg?raw=true">
 
 - Cadastro do professor, aula e horários
-<img alt="Landing Page" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/web2.jpg?raw=true">
+<img alt="Landing Page" src="./readme/web2.jpg?raw=true">
 
 - Consulta de aulas
-<img alt="Landing Page" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/web3.jpg?raw=true">
+<img alt="Landing Page" src="./readme/web3.jpg?raw=true">
 
 ---
 
