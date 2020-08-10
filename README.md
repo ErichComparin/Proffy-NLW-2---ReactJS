@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/src/assets/images/banner.jpg?raw=true" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src=https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/banner.jpg?raw=true" />
 </h1>
 
 <h2 align="center"> 
