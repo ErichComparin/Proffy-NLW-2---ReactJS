@@ -1,3 +1,13 @@
+<p align="center">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ErichComparin/Proffy-NLW2---ReactJS" />
+  
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/Proffy-NLW2---ReactJS" />
+
+  <a href="https://github.com/ErichComparin">
+    <img alt="Feito por Erich Comparin" src="https://img.shields.io/badge/feito%20por-Erich%20Comparin-orange">
+  </a>
+</p>
+
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/readme/banner.jpg?raw=true" />
 </h1>
