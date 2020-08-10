@@ -86,7 +86,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 **Erich Comparin**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Erich_Comparin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/erich-comparin-6923119b/)](https://www.linkedin.com/in/erich-comparin-6923119b/)[![Github Badge](https://img.shields.io/badge/-Erich_Comparin-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin)](https://github.com/ErichComparin)[![Gmail Badge](https://img.shields.io/badge/-erich.comparin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erich.comparin@gmail.com)](mailto:erich.comparin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Erich_Comparin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/erich-comparin-6923119b/)](https://www.linkedin.com/in/erich-comparin-6923119b/) [![Github Badge](https://img.shields.io/badge/-Erich_Comparin-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin)](https://github.com/ErichComparin) [![Gmail Badge](https://img.shields.io/badge/-erich.comparin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erich.comparin@gmail.com)](mailto:erich.comparin@gmail.com)
 
 ---
 
