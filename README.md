@@ -68,15 +68,17 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
   - [x] horários
 
 - [x] Alunos podem buscar aulas de professores filtrando por: 
-  - matéria
-  - dia da semana
-  - horário
+  - [x] matéria
+  - [x] dia da semana
+  - [x] horário
 
 ---
 
 ## 🎨 Layout
 
 🚧🚧 Em construção 🚧🚧
+
+---
 
 ## 🚀 Como executar o projeto
 
@@ -151,7 +153,7 @@ $ npm run start
 
 🚧🚧 Em construção 🚧🚧
 
-<!-->
+<!--
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
@@ -216,8 +218,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
----
 -->
+---
 
 ## 🦸 Autor
 
