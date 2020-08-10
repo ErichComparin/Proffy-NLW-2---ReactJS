@@ -16,6 +16,8 @@
 	👨‍🏫 Proffy 👩‍🏫
 </h2>
 
+<!-- 🚧🚧 Em construção 🚧🚧 -->
+
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
@@ -80,9 +82,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
+## 🦸‍♂️ Autor
 
-<img alt="Erich Comparin" src="https://avatars1.githubusercontent.com/u/49964553?s=460&u=cbfeb4a52528866ecd92b23fb86afa9bf1cc4ee2&v=4" style="border-radius: 50%" width="120px"/>
+<img alt="Erich Comparin" src="https://avatars1.githubusercontent.com/u/49964553?s=460&u=cbfeb4a52528866ecd92b23fb86afa9bf1cc4ee2&v=4" width="120px"/>
 
 **Erich Comparin**
 
