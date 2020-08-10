@@ -35,6 +35,22 @@ A NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ---
 
+## 📂 Sobre o repositório
+
+Este repositório possui a aplicação Web do projeto.
+
+Acessar o repositório da API: [![Github Badge](https://img.shields.io/badge/-API_Proffy-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin/Proffy-NLW2---nodeJS)]
+Acessar o repositório da aplicação mobile: [![Github Badge](https://img.shields.io/badge/-API_Proffy-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin/Proffy-NLW2---React-Native)]
+
+---
+
+## 🏃‍♂️ Status
+
+[x] v1
+[ ] v2
+
+---
+
 ## ⚙️ Funcionalidades
 
 - [x] Professores podem cadastrar:
@@ -107,7 +123,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-🚧🚧 Em construção 🚧🚧
+Copyright © 2020 [Erich Comparin](https://github.com/ErichComparin).<br />
+This project is [MIT](./LICENSE) licensed.
 
 ---
 
