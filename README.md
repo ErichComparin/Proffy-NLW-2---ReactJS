@@ -31,32 +31,35 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/ErichComparin/Proffy-NLW2---ReactJS/blob/master/src/assets/images/banner.jpg?raw=true" />
 </h1>
 
+<h2 align="center"> 
+	👨‍🏫 Proffy 👩‍🏫
+</h2>
+
 <h4 align="center"> 
-	👨‍🏫 Proffy 👩‍🏫 🚧🚧Em construção 🚧🚧
+	🚧🚧 Em construção 🚧🚧
 </h4>
 
-<!--<p align="center">
+<p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <!-- <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#user-content--licença">Licença</a>-->
 </p>
 
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+**Proffy** é uma plataforma que conecta professores e alunos para a realização de aulas privadas.
 
-
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
+Projeto desenvolvido durante a **NLW - Next Level Week #2** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
-
+<!--
 ## ⚙️ Funcionalidades
 
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
@@ -288,17 +291,3 @@ Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.lin
 ##  Versões do README
 
 [Português 🇧🇷](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md) | [Portugues sem logo  🇧🇷](./README-sem-logo.md) -->
-
-
-
-
-
-# Projeto Proffy - web
-
-###### O projeto
-
-Projeto desenvolvido durante a Next Level Week #2 promovida pela @rocketseat.
-
-###### Descrição
-
-Aplicação web criada em ReactJS.
