@@ -3,7 +3,7 @@
   
   <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/Proffy-NLW2---ReactJS?style=flat-square" />
 
-  <a target="_blank" href="https://github.com/ErichComparin">
+  <a href="https://github.com/ErichComparin">
     <img alt="Feito por Erich Comparin" src="https://img.shields.io/badge/feito%20por-Erich%20Comparin-orange?style=flat-square">
   </a>
 </p>
@@ -15,10 +15,6 @@
 <h2 align="center"> 
 	👨‍🏫 Proffy 👩‍🏫
 </h2>
-
-<h4 align="center"> 
-	🚧🚧 Em construção 🚧🚧
-</h4>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -36,7 +32,7 @@
 **Proffy** é uma plataforma que conecta professores e alunos para a realização de aulas privadas.
 
 Projeto desenvolvido durante a **NLW - Next Level Week #2** oferecida pela [Rocketseat](https://rocketseat.com.br/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+A NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
 
