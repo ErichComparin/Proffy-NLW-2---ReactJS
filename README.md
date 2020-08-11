@@ -75,10 +75,10 @@ Acessar o repositório da aplicação mobile: [![Github Badge](https://img.shiel
 <img alt="Landing Page" src="./readme/web1.jpg?raw=true">
 
 - Cadastro do professor, aula e horários
-<img alt="Landing Page" src="./readme/web2.jpg?raw=true">
+<img alt="Cadastro de aulas" src="./readme/web2.jpg?raw=true">
 
 - Consulta de aulas
-<img alt="Landing Page" src="./readme/web3.jpg?raw=true">
+<img alt="Consulta de aulas" src="./readme/web3.jpg?raw=true">
 
 ---
 
